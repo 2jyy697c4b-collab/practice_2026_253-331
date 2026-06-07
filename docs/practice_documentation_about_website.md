@@ -47,7 +47,7 @@ website/
 
 Каждый HTML-файл имеет одинаковую структуру:
 
-``html
+```html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -61,7 +61,7 @@ website/
     <footer>...</footer>
 </body>
 </html>
-
+```
 Важные элементы:
 
 Шапка (<header>) с логотипом и навигацией.
