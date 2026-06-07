@@ -47,6 +47,7 @@ website/
 
 Каждый HTML-файл имеет одинаковую структуру:
 
+``html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
